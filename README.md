@@ -2,11 +2,11 @@
 
 ## Optimisation
 
-####$Based\ on\ Lectures\ by\ Friedrich\ Slivovsky$
+$Based\ on\ Lectures\ by\ Friedrich\ Slivovsky$
 
 f.slivovsky@liverpool.ac.uk
 
-####$Notes\ written\ by\ Jingyuan\ Sun$
+$Notes\ written\ by\ Jingyuan\ Sun$
 
 _This repo contains all note, lecture slide, problem sheets... All of learning source in UoLiverpool COMP331/557._
 
