@@ -3,6 +3,7 @@
 ## Optimisation
 
 ####$Based\ on\ Lectures\ by\ Friedrich\ Slivovsky\\
+
 f.slivovsky@liverpool.ac.uk
 $
 
