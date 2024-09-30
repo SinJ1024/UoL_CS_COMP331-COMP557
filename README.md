@@ -2,11 +2,11 @@
 
 ## Optimisation
 
-####$Based\ on\ Lectures\ by\ Friedrich\ Slivovsky\\
+####$Based\ on\ Lectures\ by\ Friedrich\ Slivovsky$
 
-f.slivovsky@liverpool.ac.uk
+$f.slivovsky@liverpool.ac.uk$
 
-$
+
 
 ####$Notes\ written\ by\ Jingyuan\ Sun$
 
