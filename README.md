@@ -18,10 +18,10 @@ I will try my best to upload HTML, Markdown, and PDF file of notes.
 If you find it helpful, please give it a star and fork this repo. You can save it locally for convenient learning and review.
 
 
-\\
+\
 
-\\
+\
 
-\\
+\
 
 ##### $The\ End.$
